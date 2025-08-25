@@ -1,0 +1,49 @@
+/* ===================== WEBFONTS (skondensowane) ===================== */
+@font-face{ font-family:'AdobeCaslonPro'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/ACaslonPro-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Arial'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/ArialMT.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Cardea'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/CardeaOTCE-Reg.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'CenturyGothic'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/CenturyGothic.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'ComicSans'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/ComicSansMS.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'CourierNew'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/CourierNew.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Didot'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Didot.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'EasyReading'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/EasyReadingPRO.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Georgia'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Georgia.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'GillSans'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/GillSans.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Helvetica'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Helvetica.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Impact'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Impact.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'JetBrainsMono'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/JetBrainsMono-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Lato'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Lato-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Merriweather'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Merriweather-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Montserrat'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Montserrat-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'NeueHaasUnica'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/NeueHaasUnicaPro-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'OpenDyslexic'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/OpenDyslexic-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'PoltawskiNowy'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/PoltawskiNowy-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'ProximaNova'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/ProximaNova-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'Roboto'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/Roboto-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'SourceCodePro'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/SourceCodePro-Regular.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+@font-face{ font-family:'TimesNewRoman'; src:url('https://raw.githubusercontent.com/olamito/fonts/main/TimesNewRomanPSMT.woff2') format('woff2'); font-weight:400; font-style:normal; font-display:swap; }
+
+/* ===================== KLASY POMOCNICZE ===================== */
+.font-F01{ font-family:'AdobeCaslonPro', system-ui, sans-serif; }
+.font-F02{ font-family:'Arial', system-ui, sans-serif; }
+.font-F03{ font-family:'Cardea', system-ui, sans-serif; }
+.font-F04{ font-family:'CenturyGothic', system-ui, sans-serif; }
+.font-F05{ font-family:'ComicSans', system-ui, sans-serif; }
+.font-F06{ font-family:'CourierNew', system-ui, sans-serif; }
+.font-F07{ font-family:'Didot', system-ui, sans-serif; }
+.font-F08{ font-family:'EasyReading', system-ui, sans-serif; }
+.font-F09{ font-family:'Georgia', system-ui, sans-serif; }
+.font-F10{ font-family:'GillSans', system-ui, sans-serif; }
+.font-F11{ font-family:'Helvetica', system-ui, sans-serif; }
+.font-F12{ font-family:'Impact', system-ui, sans-serif; }
+.font-F13{ font-family:'JetBrainsMono', system-ui, sans-serif; }
+.font-F14{ font-family:'Lato', system-ui, sans-serif; }
+.font-F15{ font-family:'Merriweather', system-ui, sans-serif; }
+.font-F16{ font-family:'Montserrat', system-ui, sans-serif; }
+.font-F17{ font-family:'NeueHaasUnica', system-ui, sans-serif; }
+.font-F18{ font-family:'OpenDyslexic', system-ui, sans-serif; }
+.font-F19{ font-family:'PoltawskiNowy', system-ui, sans-serif; }
+.font-F20{ font-family:'ProximaNova', system-ui, sans-serif; }
+.font-F21{ font-family:'Roboto', system-ui, sans-serif; }
+.font-F22{ font-family:'SourceCodePro', system-ui, sans-serif; }
+.font-F23{ font-family:'TimesNewRoman', system-ui, sans-serif; }
